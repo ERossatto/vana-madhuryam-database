@@ -1,0 +1,28 @@
+# Ignore node_modules since we install fresh inside the container
+node_modules
+
+# Build output
+dist
+build
+
+# Local environment files
+.env
+.env.*  # If you use .env.development, .env.production, etc.
+
+# OS / editor artifacts
+*.DS_Store
+*.swp
+*.swo
+.idea
+.vscode
+
+# Docker artifacts
+Dockerfile*
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# Test coverage or other ephemeral files
+coverage

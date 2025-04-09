@@ -1,0 +1,19 @@
+{
+  "name": "vana-madhuryam-database",
+  "version": "1.0.0",
+  "description": "Web-application to store and manage harinama diciple data from Vana Maharaj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ERossatto/vana-madhuryam-database.git"
+  },
+  "author": "ettore rossatto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ERossatto/vana-madhuryam-database/issues"
+  },
+  "homepage": "https://github.com/ERossatto/vana-madhuryam-database#readme"
+}
